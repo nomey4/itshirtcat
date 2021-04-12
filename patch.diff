@@ -1,0 +1,36 @@
+From 07bcb64dafdd93c9a78053c2b63c2159a7a99596 Mon Sep 17 00:00:00 2001
+From: nomey4 <nomey4@naver.com>
+Date: Mon, 29 Mar 2021 12:41:25 +0900
+Subject: [PATCH] =?UTF-8?q?=EA=B8=B0=EB=8A=A5=EC=B6=94=EA=B0=80?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ feature-list.md | 3 +++
+ tshirt-list.md  | 2 ++
+ 2 files changed, 5 insertions(+)
+ create mode 100644 feature-list.md
+ create mode 100644 tshirt-list.md
+
+diff --git a/feature-list.md b/feature-list.md
+new file mode 100644
+index 0000000..a4b3874
+--- /dev/null
++++ b/feature-list.md
+@@ -0,0 +1,3 @@
++#기능 목록
++1. 티셔츠 올리기
++2. 티셔츠 구매하기
+diff --git a/tshirt-list.md b/tshirt-list.md
+new file mode 100644
+index 0000000..5c4916f
+--- /dev/null
++++ b/tshirt-list.md
+@@ -0,0 +1,2 @@
++1.GitHub 티셔츠
++2.파이썬 티셔츠
+\ No newline at end of file
+-- 
+2.30.2.windows.1
+
